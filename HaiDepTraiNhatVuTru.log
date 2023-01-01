@@ -1,0 +1,13 @@
+﻿  HaiDepTraiNhatVuTru.cpp
+C:\Users\ADMIN\source\repos\HaiDepTraiNhatVuTru\HaiDepTraiNhatVuTru\HaiDepTraiNhatVuTru.cpp(37,11): warning C4101: 'consult': unreferenced local variable
+C:\Users\ADMIN\source\repos\HaiDepTraiNhatVuTru\HaiDepTraiNhatVuTru\HaiDepTraiNhatVuTru.cpp(38,11): warning C4101: 'sentence': unreferenced local variable
+C:\Users\ADMIN\source\repos\HaiDepTraiNhatVuTru\HaiDepTraiNhatVuTru\HaiDepTraiNhatVuTru.cpp(158,11): warning C4101: 'consult': unreferenced local variable
+C:\Users\ADMIN\source\repos\HaiDepTraiNhatVuTru\HaiDepTraiNhatVuTru\HaiDepTraiNhatVuTru.cpp(159,11): warning C4101: 'sentence': unreferenced local variable
+C:\Users\ADMIN\source\repos\HaiDepTraiNhatVuTru\HaiDepTraiNhatVuTru\HaiDepTraiNhatVuTru.cpp(273,11): warning C4101: 'consult': unreferenced local variable
+C:\Users\ADMIN\source\repos\HaiDepTraiNhatVuTru\HaiDepTraiNhatVuTru\HaiDepTraiNhatVuTru.cpp(274,11): warning C4101: 'sentence': unreferenced local variable
+  Generating code
+  2 of 185 functions ( 1.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  HaiDepTraiNhatVuTru.vcxproj -> C:\Users\ADMIN\source\repos\HaiDepTraiNhatVuTru\x64\Release\HaiDepTraiNhatVuTru.exe
